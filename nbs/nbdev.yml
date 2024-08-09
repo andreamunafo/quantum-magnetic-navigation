@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "quantum-magnetic-navigation"
+  site-url: "https://andreamunafo.github.io/quantum-magnetic-navigation"
+  description: "Code and notebook to support maritime magnetic navigation"
+  repo-branch: main
+  repo-url: "https://github.com/andreamunafo/quantum-magnetic-navigation"
